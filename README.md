@@ -2,4 +2,4 @@
 Practice
 This is Nomad.
 
-I'm recently started to code.
+I recently started to code.
